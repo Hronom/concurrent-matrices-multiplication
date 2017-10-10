@@ -1,4 +1,4 @@
-package com.github.hronom.concurrentmatricesmultiplication;
+package com.github.hronom.concurrentmatricesmultiplication.matrix;
 
 import java.util.LinkedList;
 import java.util.concurrent.ExecutorService;

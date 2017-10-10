@@ -1,4 +1,4 @@
-package com.github.hronom.concurrentmatricesmultiplication;
+package com.github.hronom.concurrentmatricesmultiplication.matrix;
 
 public class MatrixDataEmptyException extends Exception {
     public MatrixDataEmptyException() {

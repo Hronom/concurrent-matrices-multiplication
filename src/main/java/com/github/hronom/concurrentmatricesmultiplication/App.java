@@ -1,5 +1,10 @@
 package com.github.hronom.concurrentmatricesmultiplication;
 
+import com.github.hronom.concurrentmatricesmultiplication.matrix.IntMatrix;
+import com.github.hronom.concurrentmatricesmultiplication.matrix.MatrixBuilder;
+import com.github.hronom.concurrentmatricesmultiplication.matrix.MatrixPrinter;
+import com.github.hronom.concurrentmatricesmultiplication.matrix.ThreadedMatrixMultiplier;
+
 import java.util.Arrays;
 
 public class App {
