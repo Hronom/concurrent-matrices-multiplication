@@ -12,7 +12,5 @@ public final class MatrixPrinter {
             }
             System.out.println();
         }
-
-        System.out.println();
     }
 }

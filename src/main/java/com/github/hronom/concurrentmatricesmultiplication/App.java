@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class App {
     public static void main(String[] args) throws Exception {
         // Generate initial data for matrices
-        int matrixSize = 5000;
+        int matrixSize = 1000;
         Integer[] elements = new Integer[(matrixSize * matrixSize) * 2];
         for (int i = 0; i < elements.length; i++) {
             elements[i] = i;
